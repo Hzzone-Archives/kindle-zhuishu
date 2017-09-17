@@ -5,7 +5,7 @@ categoryWithSubCategories = 'http://api.zhuishushenqi.com/cats/lv2'
 # 分类详情 = 带着书籍
 categoryInfo = 'http://api.zhuishushenqi.com/book/by-categories'
 # 书籍详情
-bookInfo = 'http://api.zhuishushenqi.com/book' # id 书籍id
+bookInfo = 'http://api.zhuishushenqi.com/book/:id' # id 书籍id
 # 相关推荐
 relatedRecommendedBooks = 'http://api.zhuishushenqi.com/book'  # http =//api.zhuishushenqi.com/book/56d0b60dfb51235c3a7a2739/recommend
 # 作者名下的书籍
